@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rZ4PlUZLNwsJhGMx0bm1ghx6D4hsyJg5J1y0kiD2T7OVZ2rQeo5zwDQI5mfUypAV2elg3nkBVp7SIgZiJeiAGQ==",
+  "dgSpecHash": "xKWucBanjzxyWm1daFAe8JSBRu5m4l31GvKu2kXEsW1TcRE1wYet/TgEq5DwAQPXieI6ULlGKt3Lox+jAV8bdg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sandi\\source\\repos\\MvcMovie\\MvcMovie.csproj",
+  "projectFilePath": "C:\\Users\\sandi\\source\\repos\\HIT339\\week1HelloWorldMVC\\MvcMovie\\MvcMovie.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

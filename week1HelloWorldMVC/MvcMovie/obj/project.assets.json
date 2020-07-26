@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sandi\\source\\repos\\MvcMovie\\MvcMovie.csproj",
+      "projectUniqueName": "C:\\Users\\sandi\\source\\repos\\HIT339\\week1HelloWorldMVC\\MvcMovie\\MvcMovie.csproj",
       "projectName": "MvcMovie",
-      "projectPath": "C:\\Users\\sandi\\source\\repos\\MvcMovie\\MvcMovie.csproj",
+      "projectPath": "C:\\Users\\sandi\\source\\repos\\HIT339\\week1HelloWorldMVC\\MvcMovie\\MvcMovie.csproj",
       "packagesPath": "C:\\Users\\sandi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sandi\\source\\repos\\MvcMovie\\obj\\",
+      "outputPath": "C:\\Users\\sandi\\source\\repos\\HIT339\\week1HelloWorldMVC\\MvcMovie\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
