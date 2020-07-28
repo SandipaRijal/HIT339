@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "\\MvcMovie",
+    "\\MvcMovie\\Controllers",
+    "\\MvcMovie\\Models",
+    "\\MvcMovie\\obj",
+    "\\MvcMovie\\Views",
+    "\\MvcMovie\\Views\\Home"
+  ],
+  "PreviewInSolutionExplorer": false
+}
